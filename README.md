@@ -1,19 +1,18 @@
 ### EDUCATION 
 **Washington University in St.Louis | St.Louis, MO** <br>
-Bachelor of Science in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028
+B.S. in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028
 
 **Whitman College | Walla Walla, WA**<br>
-Bachelor of Arts in Physics pre-engineering, Minor in 
-Economics | May 2026 
+B.A. in Physics pre-engineering, Minor in Economics | May 2026 
 •	GPA: 3.812/4.0  <br>
 •	Honors: Undergraduate Honors (2025, 2026), NCAA D3 NWC All Scholar-Athlete(2024, 2025) <br>
 •	Relevant Coursework: Thermal physics, Relativity & Quantum Mechanics, General Chemistry, Statistics for economics, Macroeconomic & Microeconomic Theory, Calculus I-III, Linear Algebra, Differential equations, Python programming 
 ### TECHNICAL SKILLS 
-•	**Programming & Software:** Python, R, LabVIEW, NI MAX, Microsoft Office Suite  <br>
-•	**Laboratory Skills:**  
+-	**Programming & Software:** Python, R, LabVIEW, NI MAX, Microsoft Office Suite  <br>
+-	**Laboratory Skills:**  
 o **Physics:** Interferometry (ESPI), Laser Alignment, Optical Setup Optimization, Acoustic Excitation, Circuit Design and Assembly, Oscilloscope Operation, Scopy (Portable Oscilloscope/Signal Generator)<br>
  o **Chemistry:** Basic Wet Chemistry, Titration Techniques <br>
-•	**Languages:** Japanese (Native), English (Fluent/Professional Working Proficiency), German (Beginning Level) 
+-	**Languages:** Japanese (Native), English (Fluent/Professional Working Proficiency), German (Beginning Level) 
 ### PROJECTS & RESEARCH 
 - **Summer Research Assistant:** ESPI (Electronic Speckle Pattern Interferometry) | Whitman College | June, 2025 – August, 2025 <br>
 •	Used the concept of wave interference to analyze microscopic vibrations on acoustic instruments. <br>
@@ -23,10 +22,10 @@ o **Physics:** Interferometry (ESPI), Laser Alignment, Optical Setup Optimizatio
 
 ### EXPERIENCE 
 - **Japanese Tutor, Teaching Assistant / Tutor** | Whitman College | September, 2024 – May, 2026 <br>
-•	Helped students practice speaking Japanese and intuitively understand the grammar concepts. 
+  Helped students practice speaking Japanese and intuitively understand the grammar concepts. 
 - **Whitman Men’s Soccer (Varsity level)** | Whitman College | September, 2023 – November, 2025 <br>
-•	 Qualified for the NCAA Division III National Tournament in the Fall 2025 season.
+  Qualified for the NCAA Division III National Tournament in the Fall 2025 season.
 - **English Language Instructor** | Alive International School, Nagoya, Japan | June, 2024 – August, 2024 <br>
-•	Developed and delivered engaging English language lessons for local elementary school students. 
+  Developed and delivered engaging English language lessons for local elementary school students. 
 - **Engineering Intern** | Highlanders (Physical AI Startup) | July 2026 
 - **Incoming Operations/Data Intern** | CADDi Inc. | July 2026
