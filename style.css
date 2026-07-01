@@ -1,0 +1,15 @@
+summary {
+  font-size: 1.4rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 4px 0;
+}
+
+details {
+  margin: 1rem 0;
+  padding: 0.5rem 0;
+}
+
+details[open] {
+  background: #f9f9f9;
+}
