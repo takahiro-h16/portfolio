@@ -21,20 +21,23 @@ details {
   margin-bottom: 1.5rem;
 }
 
-/* FIX: force bold inside details */
+/* FIX 1: force bold inside details */
 details strong {
   font-weight: 700 !important;
-  display: block;
-  margin-top: 0.5rem;
+}
+
+/* FIX 2: remove unwanted theme borders */
+details * {
+  border-bottom: none !important;
+}
+
+/* FIX 3: restore spacing between lines */
+details div[markdown="1"] > * {
+  margin-bottom: 0.6rem;
 }
 
 /* spacing for paragraphs and list items */
 details p,
 details li {
   margin-bottom: 0.4rem;
-}
-
-/* spacing between all markdown elements inside details */
-details div[markdown="1"] > * {
-  margin-bottom: 0.5rem;
 }
