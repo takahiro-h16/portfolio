@@ -1,15 +1,6 @@
 ---
 layout: default
-markdown: kramdown
 ---
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Takahiro Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
 
 <details>
   <summary><strong>EDUCATION</strong></summary>
@@ -97,5 +88,3 @@ CADDi Inc. | Jul 2026
 
 </details>
 
-</body>
-</html>
