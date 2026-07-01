@@ -1,12 +1,17 @@
-### EDUCATION 
-**Washington University in St.Louis | St.Louis, MO** <br>
-B.S. in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028
+<details>
+  <summary><strong>EDUCATION</strong></summary>
+  <p>
+    <strong>Washington University in St.Louis | St.Louis, MO</strong><br>
+    B.S. in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028<br>
+   
+<strong>Whitman College | Walla Walla, WA</strong><br>
+    B.A. in Physics pre-engineering, Minor in Economics | May 2026 <br>
+    • GPA: 3.812/4.0 <br>
+    • Honors: Undergraduate Honors (2025, 2026), NCAA D3 NWC All Scholar-Athlete (2024, 2025) <br>
+    • Relevant Coursework: Thermal physics, Relativity & Quantum Mechanics, General Chemistry, Statistics for economics, Macroeconomic & Microeconomic Theory, Calculus I-III, Linear Algebra, Differential equations, Python programming
+  </p>
+</details>
 
-**Whitman College | Walla Walla, WA**<br>
-B.A. in Physics pre-engineering, Minor in Economics | May 2026 
-•	GPA: 3.812/4.0  <br>
-•	Honors: Undergraduate Honors (2025, 2026), NCAA D3 NWC All Scholar-Athlete(2024, 2025) <br>
-•	Relevant Coursework: Thermal physics, Relativity & Quantum Mechanics, General Chemistry, Statistics for economics, Macroeconomic & Microeconomic Theory, Calculus I-III, Linear Algebra, Differential equations, Python programming 
 ### TECHNICAL SKILLS 
 -	**Programming & Software:** Python, R, LabVIEW, NI MAX, Microsoft Office Suite  <br>
 -	**Laboratory Skills:**  
