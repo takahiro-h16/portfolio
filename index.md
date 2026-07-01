@@ -100,7 +100,7 @@ Alive International School, Nagoya | Jun 2024 – Aug 2024
 **Engineering Intern**  
 Highlanders (Physical AI Startup) | Jul 2026  
 
-**Incoming Operations/Data Intern**  
+**Operations/Data Intern**  
 CADDi Inc. | Jul 2026
 
 </div>
