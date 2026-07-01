@@ -12,25 +12,44 @@
   </p>
 </details>
 
-### TECHNICAL SKILLS 
--	**Programming & Software:** Python, R, LabVIEW, NI MAX, Microsoft Office Suite  <br>
--	**Laboratory Skills:**  
-o **Physics:** Interferometry (ESPI), Laser Alignment, Optical Setup Optimization, Acoustic Excitation, Circuit Design and Assembly, Oscilloscope Operation, Scopy (Portable Oscilloscope/Signal Generator)<br>
- o **Chemistry:** Basic Wet Chemistry, Titration Techniques <br>
--	**Languages:** Japanese (Native), English (Fluent/Professional Working Proficiency), German (Beginning Level) 
-### PROJECTS & RESEARCH 
-- **Summer Research Assistant:** ESPI (Electronic Speckle Pattern Interferometry) | Whitman College | June, 2025 – August, 2025 <br>
-•	Used the concept of wave interference to analyze microscopic vibrations on acoustic instruments. <br>
-•	Utilized LabVIEW to process over 1000+ data points and images, modeling theoretical predictions against experimental results. <br>
-•	Authored a 10-page technical report detailing error analysis and conclusions; presented findings.
-- **Research in Economics**
+<details>
+  <summary><strong>TECHNICAL SKILLS</strong></summary>
+<p>
+     
+- <strong>Programming & Software:</strong>
+      Python, R, LabVIEW, NI MAX, Microsoft Office Suite
+ - <strong>Laboratory Skills:</strong><br>
+      - <strong>Physics:</strong> Interferometry (ESPI), Laser Alignment, Optical Setup Optimization, Acoustic Excitation, Circuit Design and Assembly, Oscilloscope Operation, Scopy<br>
+      - <strong>Chemistry:</strong> Basic Wet Chemistry, Titration Techniques
+- <strong>Languages:</strong>
+      Japanese (Native), English (Fluent/Professional Working Proficiency), German (Beginning Level)
+  </p>
+</details>
 
-### EXPERIENCE 
-- **Japanese Tutor, Teaching Assistant / Tutor** | Whitman College | September, 2024 – May, 2026 <br>
+<details>
+  <summary><strong>PROJECTS & RESEARCH </strong></summary>
+<p>
+     
+- <strong>Summer Research Assistant:</strong> ESPI (Electronic Speckle Pattern Interferometry) | Whitman College | June, 2025 – August, 2025 <br>
+  -	Used the concept of wave interference to analyze microscopic vibrations on acoustic instruments. <br>
+  -	Utilized LabVIEW to process over 1000+ data points and images, modeling theoretical predictions against experimental results. <br>
+  -	Authored a 10-page technical report detailing error analysis and conclusions; presented findings.
+- <strong>Research in Economics</strong>
+  </p>
+</details>
+
+<details>
+  <summary><strong>EXPERIENCE  </strong></summary>
+<p>
+     
+- <strong>Japanese Tutor, Teaching Assistant / Tutor</strong> | Whitman College | September, 2024 – May, 2026 <br>
   Helped students practice speaking Japanese and intuitively understand the grammar concepts. 
-- **Whitman Men’s Soccer (Varsity level)** | Whitman College | September, 2023 – November, 2025 <br>
+- <strong>Whitman Men’s Soccer (Varsity level)</strong> | Whitman College | September, 2023 – November, 2025 <br>
   Qualified for the NCAA Division III National Tournament in the Fall 2025 season.
-- **English Language Instructor** | Alive International School, Nagoya, Japan | June, 2024 – August, 2024 <br>
+- <strong>English Language Instructor</strong> | Alive International School, Nagoya, Japan | June, 2024 – August, 2024 <br>
   Developed and delivered engaging English language lessons for local elementary school students. 
-- **Engineering Intern** | Highlanders (Physical AI Startup) | July 2026 
-- **Incoming Operations/Data Intern** | CADDi Inc. | July 2026
+- <strong>Engineering Intern</strong> | Highlanders (Physical AI Startup) | July 2026 
+- <strong>Incoming Operations/Data Intern</strong> | CADDi Inc. | July 2026
+  </p>
+</details>
+
