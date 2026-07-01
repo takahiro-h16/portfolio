@@ -4,12 +4,8 @@
 <strong>Washington University in St.Louis | St.Louis, MO</strong><br>
 B.S. in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028
 
-<br><br>
-
 <strong>Whitman College | Walla Walla, WA</strong><br>
 B.A. in Physics pre-engineering, Minor in Economics | May 2026
-
-<br>
 
 - GPA: 3.812/4.0  
 - Honors: Undergraduate Honors (2025, 2026), NCAA D3 NWC All Scholar-Athlete (2024, 2025)  
@@ -27,9 +23,8 @@ B.A. in Physics pre-engineering, Minor in Economics | May 2026
 - NI MAX  
 - Microsoft Office Suite  
 
-<br>
-
 <strong>Laboratory Skills:</strong>  
+
 <strong>Physics:</strong>  
 - Interferometry (ESPI)  
 - Laser Alignment  
@@ -42,8 +37,6 @@ B.A. in Physics pre-engineering, Minor in Economics | May 2026
 <strong>Chemistry:</strong>  
 - Basic Wet Chemistry  
 - Titration Techniques  
-
-<br>
 
 <strong>Languages:</strong>  
 - Japanese (Native)  
@@ -63,8 +56,6 @@ Whitman College | June 2025 – August 2025
 - Modeled theoretical predictions vs experimental results  
 - Wrote a 10‑page technical report; presented findings  
 
-<br>
-
 <strong>Research in Economics</strong>
 
 </details>
@@ -77,19 +68,13 @@ Whitman College | Sep 2024 – May 2026
 - Helped students practice speaking Japanese  
 - Supported grammar comprehension  
 
-<br>
-
 <strong>Whitman Men’s Soccer (Varsity)</strong>  
 Whitman College | Sep 2023 – Nov 2025  
 - Qualified for NCAA DIII National Tournament (Fall 2025)
 
-<br>
-
 <strong>English Language Instructor</strong>  
 Alive International School, Nagoya | Jun 2024 – Aug 2024  
 - Delivered English lessons for elementary students  
-
-<br>
 
 <strong>Engineering Intern</strong>  
 Highlanders (Physical AI Startup) | Jul 2026  
