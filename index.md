@@ -5,31 +5,38 @@ layout: default
 <details>
   <summary><strong>EDUCATION</strong></summary>
 
-<strong>Washington University in St.Louis | St.Louis, MO</strong><br>
+<div markdown="1">
+
+**Washington University in St.Louis | St.Louis, MO**  
 B.S. in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028
 
-<strong>Whitman College | Walla Walla, WA</strong><br>
+**Whitman College | Walla Walla, WA**  
 B.A. in Physics pre-engineering, Minor in Economics | May 2026
 
 - GPA: 3.812/4.0  
 - Honors: Undergraduate Honors (2025, 2026), NCAA D3 NWC All Scholar-Athlete (2024, 2025)  
 - Relevant Coursework: Thermal physics, Relativity & Quantum Mechanics, General Chemistry, Statistics for economics, Macroeconomic & Microeconomic Theory, Calculus I-III, Linear Algebra, Differential equations, Python programming
 
+</div>
 </details>
+
+---
 
 <details>
   <summary><strong>TECHNICAL SKILLS</strong></summary>
 
-<strong>Programming & Software:</strong>  
+<div markdown="1">
+
+**Programming & Software:**  
 - Python  
 - R  
 - LabVIEW  
 - NI MAX  
 - Microsoft Office Suite  
 
-<strong>Laboratory Skills:</strong>  
+**Laboratory Skills:**  
 
-<strong>Physics:</strong>  
+**Physics:**  
 - Interferometry (ESPI)  
 - Laser Alignment  
 - Optical Setup Optimization  
@@ -38,21 +45,26 @@ B.A. in Physics pre-engineering, Minor in Economics | May 2026
 - Oscilloscope Operation  
 - Scopy  
 
-<strong>Chemistry:</strong>  
+**Chemistry:**  
 - Basic Wet Chemistry  
 - Titration Techniques  
 
-<strong>Languages:</strong>  
+**Languages:**  
 - Japanese (Native)  
 - English (Fluent/Professional Working Proficiency)  
 - German (Beginning Level)
 
+</div>
 </details>
+
+---
 
 <details>
   <summary><strong>PROJECTS & RESEARCH</strong></summary>
 
-<strong>Summer Research Assistant:</strong> ESPI (Electronic Speckle Pattern Interferometry)  
+<div markdown="1">
+
+**Summer Research Assistant:** ESPI (Electronic Speckle Pattern Interferometry)  
 Whitman College | June 2025 – August 2025
 
 - Used wave interference to analyze microscopic vibrations on acoustic instruments  
@@ -60,31 +72,36 @@ Whitman College | June 2025 – August 2025
 - Modeled theoretical predictions vs experimental results  
 - Wrote a 10‑page technical report; presented findings  
 
-<strong>Research in Economics</strong>
+**Research in Economics**
 
+</div>
 </details>
+
+---
 
 <details>
   <summary><strong>EXPERIENCE</strong></summary>
 
-<strong>Japanese Tutor / Teaching Assistant</strong>  
+<div markdown="1">
+
+**Japanese Tutor / Teaching Assistant**  
 Whitman College | Sep 2024 – May 2026  
 - Helped students practice speaking Japanese  
 - Supported grammar comprehension  
 
-<strong>Whitman Men’s Soccer (Varsity)</strong>  
+**Whitman Men’s Soccer (Varsity)**  
 Whitman College | Sep 2023 – Nov 2025  
 - Qualified for NCAA DIII National Tournament (Fall 2025)
 
-<strong>English Language Instructor</strong>  
+**English Language Instructor**  
 Alive International School, Nagoya | Jun 2024 – Aug 2024  
 - Delivered English lessons for elementary students  
 
-<strong>Engineering Intern</strong>  
+**Engineering Intern**  
 Highlanders (Physical AI Startup) | Jul 2026  
 
-<strong>Incoming Operations/Data Intern</strong>  
+**Incoming Operations/Data Intern**  
 CADDi Inc. | Jul 2026
 
+</div>
 </details>
-
