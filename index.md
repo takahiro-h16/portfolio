@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="style.css">
 
 <details>
   <summary><strong>EDUCATION</strong></summary>
