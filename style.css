@@ -13,3 +13,17 @@ details {
 details[open] {
   background: #f9f9f9;
 }
+
+details {
+  margin-bottom: 1.5rem;
+}
+
+details strong {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+details p,
+details li {
+  margin-bottom: 0.4rem;
+}
