@@ -29,24 +29,6 @@
 </details>
 
 <details>
-  <summary><strong>TECHNICAL SKILLS</strong></summary>
-
-  <p></p>
-
-  - <strong>Programming & Software:</strong>  
-    Python, R, LabVIEW, NI MAX, Microsoft Office Suite
-
-  - <strong>Laboratory Skills:</strong>  <br>
-    - <strong>Physics:</strong> Interferometry (ESPI), Laser Alignment, Optical Setup Optimization, Acoustic Excitation, Circuit Design and Assembly, Oscilloscope Operation, Scopy  
-    - <strong>Chemistry:</strong> Basic Wet Chemistry, Titration Techniques
-
-  - <strong>Languages:</strong>  
-    Japanese (Native), English (Fluent/Professional Working Proficiency), German (Beginning Level)
-
-</details>
-
-
-<details>
   <summary><strong>PROJECTS & RESEARCH </strong></summary>
 <p>
      
