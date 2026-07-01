@@ -8,10 +8,10 @@ layout: default
 
 <div markdown="1">
 
-**Washington University in St.Louis | St.Louis, MO**  
+<strong>Washington University in St.Louis | St.Louis, MO</strong>  
 B.S. in Mechanical Engineering, Minor in Statistics | Expected Graduation May 2028
 
-**Whitman College | Walla Walla, WA**  
+<strong>Whitman College | Walla Walla, WA</strong>  
 B.A. in Physics pre-engineering, Minor in Economics | May 2026
 
 - GPA: 3.812/4.0  
