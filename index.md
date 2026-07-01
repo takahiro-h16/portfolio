@@ -36,18 +36,18 @@ B.A. in Physics pre-engineering, Minor in Economics | May 2026
 
 **Laboratory Skills:**  
 
-**Physics:**  
-- Interferometry (ESPI)  
-- Laser Alignment  
-- Optical Setup Optimization  
-- Acoustic Excitation  
-- Circuit Design and Assembly  
-- Oscilloscope Operation  
-- Scopy  
+- **Physics:**  
+  - Interferometry (ESPI)  
+  - Laser Alignment  
+  - Optical Setup Optimization  
+  - Acoustic Excitation  
+  - Circuit Design and Assembly  
+  - Oscilloscope Operation  
+  - Scopy  
 
-**Chemistry:**  
-- Basic Wet Chemistry  
-- Titration Techniques  
+- **Chemistry:**  
+  - Basic Wet Chemistry  
+  - Titration Techniques  
 
 **Languages:**  
 - Japanese (Native)  
